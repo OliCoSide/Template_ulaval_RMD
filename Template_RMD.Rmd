@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r paquetages, message=FALSE, eval=TRUE, include=FALSE, echo = FALSE}
 ### Liste des paquetages
-liste.paquetage <- c("")
+liste.paquetage <- c("ggplot2")
 
 ### On installe les paquetages de la liste qu'on a pas déjà
 inst <- liste.paquetage %in% installed.packages()

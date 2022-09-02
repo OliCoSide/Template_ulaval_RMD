@@ -13,14 +13,8 @@
 \usepackage{xfrac}
 \usepackage[document]{ragged2e}
 \pagestyle{fancy}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%% MODIFIER ICI
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\fancyfoot[RE,LO]{Équipe X} % NUMÉRO D'ÉQUIPE
-\fancyfoot[CO,CE]{ABC-1234} % SIGLE DU COURS
-
-
+\fancyfoot[RE,LO]{Équipe X}
+\fancyfoot[CO,CE]{ABC-1234}
 \fancyfoot[LE,RO]{\thepage}
 \renewcommand{\contentsname}{Table des Matières}
 \newcommand{\bcenter}{\begin{center}}

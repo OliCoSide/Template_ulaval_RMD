@@ -10,23 +10,18 @@
 \begin{titlepage}
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
-%%% MODIFIER ICI (iNFORMATION GÉNÉRALE DU TRAVAIL)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \center % Center everything on the page
-\textsc{\LARGE Travail Pratique}\\[1.0cm] % LAISSER TP OU METTRE UN VRAI TITRE
-\textsc{\Large Cours d'université}\\[0.2cm] % NOM DU COURS 
-\textsc{\large ABC-1234}\\[0.7cm] % SIGLE
-\textsc{\large Équipe 55}\\[0.7cm] % ÉQUIPE
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% MODIFIER ICI (TITRE DU TRAVAIL)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textsc{\LARGE Travail Pratique}\\[1.0cm] 
+\textsc{\Large Cours d'université}\\[0.2cm] 
+\textsc{\large ABC-1234}\\[0.7cm]
+\textsc{\large Équipe 55}\\[0.7cm]
 
 \HRule \\[0.4cm]
 { \Large \bfseries Rapport}\\[0.20cm] { \huge \bfseries Nom de votre TP}\\[0.20cm]
 
 \HRule \\[2cm]
-%%% MODIFIER ICI (nOM DES ÉTUDIANTS)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{minipage}{0.4\textwidth}
     \begin{flushleft} \large
     \emph{Par}\\
@@ -36,7 +31,7 @@
         Étudiant \textsc{4}
     \end{flushleft}
 \end{minipage}
-~%%% MODIFIER ICI (NI DES ÉTUDIANTS)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+~
 \begin{minipage}{0.4\textwidth}
     \begin{flushright} \large
     \emph{Numéro d'identification}\\
@@ -46,11 +41,11 @@
         XYD XYD XYD
     \end{flushright}
 \end{minipage} \\[1.0cm]
-%%% MODIFIER ICI (NOM DU/DE LA PROF)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \emph{Travail présenté à} \\
 \emph{Madame} \\[0.1cm]
 \textsc{\Large Prof \textsc{d'Université}}\\[1.0cm]
-%%% MODIFIER ICI (DATE)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
 \textsc{\large 32 avril 2025}\\[1cm] % Date, change the \today to a set date if you want to be precise
 
 \includegraphics[width=8cm,keepaspectratio]{ul-actuariat.png}\\[1.5cm]
